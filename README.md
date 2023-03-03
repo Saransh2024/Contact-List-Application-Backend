@@ -1,5 +1,7 @@
-# cms-youtube-backend
-backend for cms created for youtube.
+This application has been hosted on netlify:-
+https://contact-list-application-saransh.netlify.app/
+
+Backend for contact list Application
 
 ### go to config folder and create a file
 ```
@@ -11,4 +13,4 @@ config.env
 JWT_SECRET =
 MONGODB_URI =
 ```
-# Contact-Management-System
+# Contact-List-Full-Stack-Application
