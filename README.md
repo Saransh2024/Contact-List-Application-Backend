@@ -7,10 +7,9 @@ Backend for contact list Application
 ```
 config.env
 ```
-
 ### and put these details
 ```
 JWT_SECRET =
 MONGODB_URI =
 ```
-# Contact-List-Full-Stack-Application
+# Contact-List-Application-Backend
